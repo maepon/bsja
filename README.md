@@ -7,9 +7,15 @@
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
 
+Bootstrapは、Web制作をより早く、より簡単にするための、スマートで、直感的で協力なフロントエンドフレームワークです。[Mark Otto](https://twitter.com/mdo) と [Jacob Thornton](https://twitter.com/fat)が作成し、充実したサポートとコミュニティとの密接な連携を提供する[core team](https://github.com/orgs/twbs/people)によりメンテナンスされています。
+
 To get started, check out <http://getbootstrap.com>!
 
+<http://getbootstrap.com> をチェックして始めましょう！
+
 ## Table of contents
+
+## 目次
 
 - [Quick start](#quick-start)
 - [Bugs and feature requests](#bugs-and-feature-requests)
@@ -20,20 +26,42 @@ To get started, check out <http://getbootstrap.com>!
 - [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
-## Quick start
+- [クイックスタート](#quick-start)
+- [バグや機能拡張の要求について](#bugs-and-feature-requests)
+- [ドキュメントについて](#documentation)
+- [貢献について](#contributing)
+- [コミュニティについて](#community)
+- [バージョン番号について](#versioning)
+- [製作者について](#creators)
+- [著作権とライセンス](#copyright-and-license)
+
+## クイックスタート
 
 Four quick start options are available:
+
+手早く始めるには4つの方法があります:
 
 - [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.3.1.zip).
 - Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
 - Install with [Bower](http://bower.io): `bower install bootstrap`.
 - Install with [npm](https://www.npmjs.org): `npm install bootstrap`.
 
+- [最新リリースのダウンロード](https://github.com/twbs/bootstrap/archive/v3.3.1.zip).
+- リポジトリのclone: `git clone https://github.com/twbs/bootstrap.git`.
+- [Bower](http://bower.io)でのインストール: `bower install bootstrap`.
+- [npm](https://www.npmjs.org)でのいんすとーる: `npm install bootstrap`.
+
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
+
+フレームワークの内容、テンプレート、事例やその他の情報については、[Getting started page](http://getbootstrap.com/getting-started/)を読んでください。
 
 ### What's included
 
+### 含まれている内容
+
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+ダウンロードしたデーターの中に下記の分類した共有のアセットと、コンプパイルしたものとミニファイされたバリエーションのディレクトリとファイルが含まれています。一部は下記のような感じです:
 
 ```
 bootstrap/
@@ -57,11 +85,12 @@ bootstrap/
 
 We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). CSS [source maps](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Fonts from Glyphicons are included, as is the optional Bootstrap theme.
 
-
+コンパイルされたCSSとJS(`bootstrap.*`)と同様にコンパイル後にミニファイされたCSSとJS(`bootstrap.min.*`)を提供しています。CSSの[source maps](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors) (`bootstrap.*.map`)は対応しているブラウザのデベロッパーツールに向けて提供されています。Bootstrapテーマの付属品としてGlyphiconsのフォントが含まれています。
 
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+
 
 
 ## Documentation

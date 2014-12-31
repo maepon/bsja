@@ -87,11 +87,11 @@ We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified
 
 コンパイルされたCSSとJS(`bootstrap.*`)と同様にコンパイル後にミニファイされたCSSとJS(`bootstrap.min.*`)を提供しています。CSSの[source maps](https://developers.google.com/chrome-developer-tools/docs/css-preprocessors) (`bootstrap.*.map`)は対応しているブラウザのデベロッパーツールに向けて提供されています。Bootstrapテーマの付属品としてGlyphiconsのフォントが含まれています。
 
-## Bugs and feature requests
+## バグや機能拡張の要求について
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
 
-
+バグや機能追加の要望がありますか？まずは[issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker)を読んで、現在進行しているものや終了したイシューを検索してください。もし、あなたの把握しているバグや新しい機能のアイデアがまだ登録されていない場合は、[新しいイシューを開いでください](https://github.com/twbs/bootstrap/issues/new)。
 
 ## Documentation
 

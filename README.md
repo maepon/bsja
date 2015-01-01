@@ -134,30 +134,43 @@ Bootstrap 3に移行するまでの間、v2.3.2のドキュメントはしばら
 
 ## Contributing
 
+## 貢献について
+
 Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+まず、[貢献についてのガイドライン](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md)をひと通り読んでください。イシューの開き方、コーディング規約、開発上のメモなどが含まれています。
 
 Moreover, if your pull request contains JavaScript patches or features, you must include relevant unit tests. All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
+さらに、プルリクエストがJavaScriptのパッチや機能を含む場合、は適切なユニットテストを含む必要があります。全てのHTMLとCSSは[Mark Otto](https://github.com/mdo)がメンテナンスしている[Code Guide](https://github.com/mdo/code-guide)に従う必要があります。
+
 Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
-
+エディターの設定は、一般的なエディターで手軽に利用できるように[editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig)として提供されています。<http://editorconfig.org>で詳しいことを確認してプラグインをダウンロードして下さい。
 
 ## Community
 
+## コミュニティについて
+
 Keep track of development and community news.
+
+開発状況とコミュニティに関するニュースを抑えておいてください。
 
 - Follow [@twbootstrap on Twitter](https://twitter.com/twbootstrap).
 - Read and subscribe to [The Official Bootstrap Blog](http://blog.getbootstrap.com).
 - Chat with fellow Bootstrappers in IRC. On the `irc.freenode.net` server, in the `##bootstrap` channel.
 - Implementation help may be found at Stack Overflow (tagged [`twitter-bootstrap-3`](http://stackoverflow.com/questions/tagged/twitter-bootstrap-3)).
 
-
+- [Twitterアカウントの @twbootstrap](https://twitter.com/twbootstrap)をフォローして下さい。
+- [公式の Bootstrap Blog](http://blog.getbootstrap.com)を読んでRSSを登録してください。
+- IRCでBootstrap利用者たちの仲間とチャットしてください。 `irc.freenode.net` サーバー上の `##bootstrap` チャンネルにて行っています。
+- Stack Overflow (タグ [`twitter-bootstrap-3`](http://stackoverflow.com/questions/tagged/twitter-bootstrap-3))で見かけたら手助けを行ってください。
 
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
-
+リリースサイクルの透明性と下位互換性に務めるために、Bootstrapは[the Semantic Versioning guidelines](http://semver.org/)に従っています。完全ということにはなっていませんが、可能な限りこの基準に準拠します。
 
 ## Creators
 
@@ -175,4 +188,8 @@ For transparency into our release cycle and in striving to maintain backward com
 
 ## Copyright and license
 
+## 著作権とライセンスについて
+
 Code and documentation copyright 2011-2014 Twitter, Inc. Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+
+コードとドキュメントの著作権はTwitter社に属しています。コードは[the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE)で提供されています。ドキュメントは[Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE)で提供されています。

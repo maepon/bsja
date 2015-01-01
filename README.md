@@ -93,11 +93,15 @@ Have a bug or a feature request? Please first read the [issue guidelines](https:
 
 バグや機能追加の要望がありますか？まずは[issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker)を読んで、現在進行しているものや終了したイシューを検索してください。もし、あなたの把握しているバグや新しい機能のアイデアがまだ登録されていない場合は、[新しいイシューを開いでください](https://github.com/twbs/bootstrap/issues/new)。
 
-## Documentation
+## ドキュメントについて
 
 Bootstrap's documentation, included in this repo in the root directory, is built with [Jekyll](http://jekyllrb.com) and publicly hosted on GitHub Pages at <http://getbootstrap.com>. The docs may also be run locally.
 
+Bootstrapのドキュメントは、このレポジトリのルートディレクトリに含まれています。[Jekyll](http://jekyllrb.com)でビルドされ、<http://getbootstrap.com>のアドレスでGitHub Pagesで公開されています。また、このドキュメントはローカルでも動作します。
+
 ### Running documentation locally
+
+### ローカルでドキュメントを走らせる
 
 1. If necessary, [install Jekyll](http://jekyllrb.com/docs/installation) (requires v2.5.x).
   - **Windows users:** Read [this unofficial guide](http://jekyll-windows.juthilo.com/) to get Jekyll up and running without problems.
@@ -105,14 +109,27 @@ Bootstrap's documentation, included in this repo in the root directory, is built
 3. From the root `/bootstrap` directory, run `jekyll serve` in the command line.
 4. Open <http://localhost:9001> in your browser, and voilà.
 
+1. 必要であれば [Jekyllをインストールします](http://jekyllrb.com/docs/installation) (v2.5.xが必要です).
+  - **Windows ユーザーの場合:** Jekyllを問題なく動作させるには、[非公式ガイド](http://jekyll-windows.juthilo.com/)を読んでください。
+2. `gem install rouge`コマンドで、Rubyベースのシンタックスハイライトの[Rouge](https://github.com/jneen/rouge)をインストールしてください。
+3. ルートから `/bootstrap` ディレクトリで、 コマンドラインから `jekyll serve` を実行します。
+4. ブラウザで <http://localhost:9001> を開くと確認できます。
+
 Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com/docs/home/).
+
+Jekyllの利用法について詳しくは、[ドキュメント](http://jekyllrb.com/docs/home/)を読んでください。
 
 ### Documentation for previous releases
 
+### 以前のバージョンのドキュメントについて
+
 Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
+
+Bootstrap 3に移行するまでの間、v2.3.2のドキュメントはしばらくの間、<http://getbootstrap.com/2.3.2/>のアドレスで提供されています。
 
 [Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
+[以前のバージョン](https://github.com/twbs/bootstrap/releases)とそのドキュメントはダウンロードで提供されています。
 
 
 ## Contributing

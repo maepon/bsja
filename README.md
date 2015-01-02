@@ -61,7 +61,7 @@ Read the [Getting started page](http://getbootstrap.com/getting-started/) for in
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
-ダウンロードしたデーターの中に下記の分類した共有のアセットと、コンプパイルしたものとミニファイされたバリエーションのディレクトリとファイルが含まれています。一部は下記のような感じです:
+ダウンロードしたデーターの中に下記の分類した共有のアセットと、コンプパイルとミニファイされたバリエーションのディレクトリとファイルが含まれています。一部は下記のような感じです:
 
 ```
 bootstrap/

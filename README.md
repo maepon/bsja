@@ -49,7 +49,7 @@ Four quick start options are available:
 - [最新リリースのダウンロード](https://github.com/twbs/bootstrap/archive/v3.3.1.zip).
 - リポジトリのclone: `git clone https://github.com/twbs/bootstrap.git`.
 - [Bower](http://bower.io)でのインストール: `bower install bootstrap`.
-- [npm](https://www.npmjs.org)でのいんすとーる: `npm install bootstrap`.
+- [npm](https://www.npmjs.org)でのインストール: `npm install bootstrap`.
 
 Read the [Getting started page](http://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
